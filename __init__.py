@@ -1,1 +1,2 @@
-from .multimodal_retriever import MultimodalRetriever
+from .feature_extractor import MultimodalFeatureExtractor
+from .jina_clip_encoder import JinaCLIPFeatureExtractor
