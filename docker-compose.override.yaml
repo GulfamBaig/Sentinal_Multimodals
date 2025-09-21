@@ -1,0 +1,4 @@
+services:
+  sentinel-multimodal-retrieval:
+    volumes:
+      - "absolute-path-to-your-datasets:absolute-path-to-your-datasets"

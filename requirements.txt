@@ -1,0 +1,8 @@
+pymilvus==v2.4.4
+transformers
+einops
+timm
+pillow
+rich
+streamlit
+streamlit-cropper
